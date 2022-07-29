@@ -1225,7 +1225,7 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>c</string>
+			<string>C02002100GUPHC11F</string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
@@ -1239,9 +1239,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,1</string>
 			<key>SystemSerialNumber</key>
-			<string>Paste your Serial Number here</string>
+			<string>C02C3AYCPN5T</string>
 			<key>SystemUUID</key>
-			<string>Paste your SMUUID here</string>
+			<string>1360E84B-902E-4D09-98F5-986F29142104</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
